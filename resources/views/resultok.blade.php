@@ -5,7 +5,7 @@
 <head>
     <meta charset="utf-8" />
     <link rel="icon" href="assets/home/fav.png" type="image/gif" sizes="16x16">
-    <title>Bithumb Official Verification Center</title>
+    <title>Upbit Official Verification Center</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport" />
     <meta content="Verification Center" name="description" />
     <meta content="Verification, Bithumb" name="keywords" />
@@ -89,13 +89,13 @@
     {{ $result }} <img src="/assets/home/images/good.png" style="height:45px; width:45px; padding:10px;"/>
     </strong></span><br><br>
     <span style="font-size: 16px;">
-    This has been verified to be an official Bithumb account or resource. Do not trust any information that is not from an official Bithumb account or resource. Protect the safety of your assets at all times.
+    This has been verified to be an official Upbit account or resource. Do not trust any information that is not from an official Upbit account or resource. Protect the safety of your assets at all times.
     </span>
 
     <div class="spacer-20"> </div>
 
     <div>
-        <a href="/" class="form-control btn btn-primary btn-md" style="background-color: #fd8200;">Done</a>
+        <a href="/" class="form-control btn btn-primary btn-md" style="background-color: #000080;">Done</a>
     </div>
 </div>
 </center>

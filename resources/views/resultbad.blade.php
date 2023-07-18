@@ -5,7 +5,7 @@
 <head>
     <meta charset="utf-8" />
     <link rel="icon" href="assets/home/fav.png" type="image/gif" sizes="16x16">
-    <title>Bithumb Official Verification Center</title>
+    <title>Upbit Resource Verification Center</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport" />
     <meta content="Verification Center" name="description" />
     <meta content="Verification, Bithumb" name="keywords" />
@@ -89,17 +89,17 @@
     {{ $handle }} <img src="/assets/home/images/bad.png" style="height:45px; width:45px; padding:10px;"/>
     </strong></span><br><br>
     <p style="font-size: 16px;">
-    This could not be verified by our system and may not be an official Bithumb account or resource. Do not trust any information that is not from an official Bithumb account or resource. Protect the safety of your assets at all times.</p>
+    This could not be verified by our system and may not be an official Upbit account or resource. Do not trust any information that is not from an official Upbit account or resource. Protect the safety of your assets at all times.</p>
 
     <p style="font-size: 16px;">
     To be sure, you can double-check the information you entered and verify again.
-    Note: For landline phones, please include the area code in the phone number. Chat or messaging accounts (such as Telegram accounts) can only be checked using account IDs or usernames (rather than nicknames or display names). Double-check capitalization, hyphens, dashes, etc. Only wallet addresses used for Bithumb business transactions can be verified. Personal wallet addresses of users on the Bithumb platform or other types of addresses are not supported at this time.
+    Note: For landline phones, please include the area code in the phone number. Chat or messaging accounts (such as Telegram accounts) can only be checked using account IDs or usernames (rather than nicknames or display names). Double-check capitalization, hyphens, dashes, etc. Only wallet addresses used for Upbit business transactions can be verified. Personal wallet addresses of users on the Upbit platform or other types of addresses are not supported at this time.
     </p>
 
     <div class="spacer-20"> </div>
 
     <div>
-        <a href="/" class="form-control btn btn-primary btn-md" style="background-color: #fd8200;">Done</a>
+        <a href="/" class="form-control btn btn-primary btn-md" style="background-color: #000080;">Done</a>
     </div>
 </div>
 </center>

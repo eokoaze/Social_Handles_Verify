@@ -5,7 +5,7 @@
 <head>
     <meta charset="utf-8" />
     <link rel="icon" href="assets/home/fav.png" type="image/gif" sizes="16x16">
-    <title>Bithumb Official Verification Center</title>
+    <title>Upbit Resource Verification Center</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport" />
     <meta content="Verification Center" name="description" />
     <meta content="Verification, Bithumb" name="keywords" />
@@ -88,7 +88,7 @@
     <div class="container" style="font-family: Lucida Console, Courier New, monospace;">
         <div class="row wow fadeIn" data-wow-delay=".3s">
             <div class="col-lg-10 offset-lg-1 text-center">
-                <h2><i>BITHUMB <span class="id-color">VERIFICATION</span> ADMIN</span></i></h2>
+                <h2><i>UPBIT <span class="id-color" style="color : #fd8200;">VERIFICATION</span> ADMIN</span></i></h2>
                 <h3><i>Add/View Links and Handles</i></h3>
             </div>
     <div class="col-lg-4 text-center" style="color: #000000; background-color: #FFF; border-radius: 5px; margin: 10px; padding: 30px;">
@@ -119,7 +119,7 @@
         </div>
         <div class="spacer-10"></div>
         <div>
-            <button type="submit" class="form-control btn btn-primary btn-md" style="background-color: #fd8200;">Add</button>
+            <button type="submit" class="form-control btn btn-primary btn-md" style="background-color: #000080;">Add</button>
         </div>
     </form>
 </div>
