@@ -5,7 +5,7 @@
 <head>
     <meta charset="utf-8" />
     <link rel="icon" href="assets/home/fav.png" type="image/gif" sizes="16x16">
-    <title>Upbit Resource Verification Center</title>
+    <title>Upbit Verification Center</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport" />
     <meta content="Verification Center" name="description" />
     <meta content="Verification, Bithumb" name="keywords" />
@@ -124,20 +124,9 @@
             <script src="assets/home/js/enquire.min.js"></script>
             <script src="assets/home/js/jquery.stellar.min.js"></script>
             <script src="assets/home/js/jquery.plugin.js"></script>
-            <script src="assets/home/js/jquery.countdown.js"></script>
             <script src="assets/home/js/typed.js"></script>
             <script src="assets/home/js/typed-custom.js"></script>
             <script src="assets/home/js/designesia.js"></script>
 
-        <!-- Javascript Files for current page only
-            ================================================== -->
-            <script src="assets/home/js/let-it-snow.min.js""></script>
-            <script>
-                $.letItSnow('.let-it-snow', {
-                    stickyFlakes: 'lis-flake--js',
-                    makeFlakes: true,
-                    sticky: true
-                });
-            </script>
         </body>
 </html>
